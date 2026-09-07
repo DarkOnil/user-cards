@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Алина Смирнова",
+        "age": 24,
+        "city": "Москва",
+        "active": true,
+        "img": "https://img.freepik.com/premium-photo/attractive-beautiful-girl-model-smiling-plain-color-background_755164-21410.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Иван Петров",
+        "age": 31,
+        "city": "Санкт-Петербург",
+        "active": false,
+        "img": "https://profile-images.xing.com/images/e6ec7f9d6849d1b41a1ca279b358e332-1/tom-macht.1024x1024.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Мария Ким",
+        "age": 27,
+        "city": "Бишкек",
+        "active": true,
+        "img": "https://img.freepik.com/premium-photo/stunning-shot-business-person-with-offical-office-attire_884630-2084.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Данияр Уулу",
+        "age": 22,
+        "city": "Ош",
+        "active": false,
+        "img": "https://i.pinimg.com/736x/b4/e1/34/b4e13427561de5619c652496c3865778.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ольга Николаева",
+        "age": 29,
+        "city": "Алматы",
+        "active": true,
+        "img": "https://cdn.shopify.com/s/files/1/1038/1798/files/23._Layered_Lob.png?v=1720439197"
+    },
+    {
+        "id": 6,
+        "name": "Джейсон Стейтем",
+        "age": 59,
+        "city": "Великобритания",
+        "active": false,
+        "img": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Jason_Statham_2018.jpg/250px-Jason_Statham_2018.jpg?utm_source=ru.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+    }
+]
